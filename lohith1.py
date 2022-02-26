@@ -269,3 +269,4 @@ while True:
 
 wn.mainloop()
 # gyugyug
+# duifvgdfyuhvgeuyfghdefvhudgv
